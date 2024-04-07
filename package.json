@@ -1,0 +1,8 @@
+{
+  "name": "change-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/r9aminu/change-log.git",
+  "author": "r9aminu <103598685+r9aminu@users.noreply.github.com>",
+  "license": "MIT"
+}
